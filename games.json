@@ -1,0 +1,11 @@
+{
+  "games": [
+    {
+      "id": "1",
+      "title": "Escape Poland",
+      "shortDescription": "Embark on an epic journey full of challenges and surprises at every turn.",
+      "price": "$0/Free",
+      "image": "images/escape-poland.jpg"
+    }
+  ]
+}
